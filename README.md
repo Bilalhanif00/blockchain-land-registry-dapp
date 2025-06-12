@@ -52,7 +52,7 @@ A **decentralized land registration system** built using **Ethereum Smart Contra
 
 | Admin Register | Land List | Transfer Ownership |
 |----------------|------------|--------------------|
-| ![Admin](screenshots/admin.png) | ![List](screenshots/list.png) | ![Transfer](screenshots/transfer.png) |
+| ![Admin](screenshots/Admin.png) | ![List](screenshots/List.png) | ![Transfer](screenshots/Transfer.png) |
 
 ---
 
